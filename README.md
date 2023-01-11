@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Andrei Milashevich
-## Junior Front-End Developer (EPAM systems)
+## Front-End Developer (EPAM systems)
 ### Contact Info:
 * <milashevichandrei@gmail.com>
 * [https://linkedin.com/in/andrei-milashevich](linkedin.com/in/andrei-milashevich)
