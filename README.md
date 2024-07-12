@@ -3,7 +3,7 @@
 # Andrei Milashevich
 ## Front-End Developer (EPAM systems)
 ### Contact Info:
-* <milashevichandrei@gmail.com>
+* <ctaptex2@gmail.com>
 * [https://linkedin.com/in/andrei-milashevich](linkedin.com/in/andrei-milashevich)
 * [https://github.com/AndreiMilashevich](github.com/AndreiMilashevich)
 
